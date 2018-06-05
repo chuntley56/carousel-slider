@@ -1,0 +1,35 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "description": "Javascript carousel",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chuntley56/carousel"
+  },
+  "author": "Corey Huntley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuntley56/carousel"
+  },
+  "homepage": "https://github.com/chuntley56/carousel",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-csso": "^1.1.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-minify": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.4",
+    "imagemin-pngquant": "^4.2.2"
+  }
+}
